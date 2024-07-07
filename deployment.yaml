@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: my-container
-        image: nginx:1.14.2
+        image: manoharoberoi/capstoneproj2:latest
         ports:
         - containerPort: 80
